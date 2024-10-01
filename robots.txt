@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jendsu.github.io/igi/sitemap.igi.gz
